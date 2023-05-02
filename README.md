@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @James-McTighe
 - 👀 I’m interested in learning about programming in general
-- 🌱 I’m currently learning basic python
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.  I also know some basic Python
 - 💞️ I’m looking to collaborate on anything beginner friendly
 - 📫 How to reach me: email
 
